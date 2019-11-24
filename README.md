@@ -1,7 +1,7 @@
 # Angular Different Version Difference
 
 DIFFERENCE BETWEEN ANGULAR 6 7 OR 8
- https://medium.com/@lifenshades/difference-among-angular-8-7-6-5-4-3-2-breakdown-new-features-and-changes-811fb5f8e6f0
+ REFERENCE FOR 6:https://medium.com/@lifenshades/difference-among-angular-8-7-6-5-4-3-2-breakdown-new-features-and-changes-811fb5f8e6f0
  
  ANGULAR 6:<br/>
 #Released on April 2018<br/>
@@ -51,6 +51,9 @@ Generates Data Table with sorting, filtering & pagination
 #It uses angular.json instead of .angular-cli.json<br/>
 #Support for multiple projects: Now in angular.json we can add multiple projects<br/>
 #initial release of Angular Elements which gives us ability to use our angular components in other environments like a Vue.js application. Its potential is truly amazing but unfortunately this release only works for angular application, we need to wait for next release to wrap out angular component into custom element and use it with framework like Vue.js<br/>
+ 
+  REFERENCE FOR 7:https://data-flair.training/blogs/angular-7-features/
+ 
  
 #ANGULAR COMPONENT
  https://material.angular.io/components/paginator/overview
