@@ -52,7 +52,7 @@ Generates Data Table with sorting, filtering & pagination
 #Support for multiple projects: Now in angular.json we can add multiple projects<br/>
 #initial release of Angular Elements which gives us ability to use our angular components in other environments like a Vue.js application. Its potential is truly amazing but unfortunately this release only works for angular application, we need to wait for next release to wrap out angular component into custom element and use it with framework like Vue.js<br/>
  
-  REFERENCE FOR 7:https://data-flair.training/blogs/angular-7-features/
+ # REFERENCE FOR 7:https://data-flair.training/blogs/angular-7-features/
  
  
 #ANGULAR COMPONENT
