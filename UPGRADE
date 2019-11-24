@@ -1,0 +1,10 @@
+# VERSION UPGRATION FROM 5 TO 6 AND 6 TO 7 AND 7 TO 8
+
+FROM 5 TO 6
+  https://medium.com/@filipjerga/angular-5-to-angular-6-migration-guide-7ba4d2544411
+  
+FROM 6 TO 7
+  https://medium.com/mr-frontend-community/upgrade-to-angular-7-beta-within-10-minutes-c14fc380edd
+
+FROM 7  TO 8
+  https://medium.com/mr-frontend-community/upgrade-to-angular-8-beta-within-10-minutes-cd831fb8dd0e
