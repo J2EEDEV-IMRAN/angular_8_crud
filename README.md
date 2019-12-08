@@ -55,6 +55,9 @@ Generates Data Table with sorting, filtering & pagination
  # REFERENCE FOR 7:https://data-flair.training/blogs/angular-7-features/
  https://www.peerbits.com/blog/angular-7-features-and-updates.html
  
+ URLSEGMENT->https://angular.io/api/router/UrlSegment
+ DOBOOTSTRAP->https://angular.io/api/core/DoBootstrap
+ 
  # REFERENCE FOR 8:https://www.angularminds.com/blog/article/top-10-features-of-angular-8.html
  
 #ANGULAR COMPONENT
